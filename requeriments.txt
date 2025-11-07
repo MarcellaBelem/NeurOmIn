@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+networkx
+pyvis
+matplotlib
+seaborn
+GProfiler
+py3Dmol
+requests
