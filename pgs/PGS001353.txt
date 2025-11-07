@@ -1,0 +1,21 @@
+###PGS CATALOG SCORING FILE - see https://https://www.pgscatalog.org/downloads/#dl_ftp_scoring_scoring for additional information
+#format_version=2.0
+##POLYGENIC SCORE (PGS) INFORMATION
+#pgs_id=PGS001353
+#pgs_name=PRS6_PD
+#trait_reported=Parkinson's disease
+#trait_mapped=Parkinson disease
+#trait_efo=MONDO_0005180
+#weight_type=beta
+#genome_build=NR
+#variants_number=6
+##SOURCE INFORMATION
+#pgp_id=PGP000250
+#citation=Sia MW et al. Mov Disord (2021). doi:10.1002/mds.28761
+rsID	chr_name	chr_position	effect_allele	effect_weight	locus_name
+rs6679073	1	205756484	A	0.215	PARK16
+rs16846351	1	226846712	G	0.285	ITPKB
+rs2292056	3	182735211	T	0.192	MCCC1
+rs6826785	4	90682474	C	0.292	SNCA
+rs33949390	12	40713845	C	0.604	LRRK2_R1628P
+rs34778348	12	40757328	A	0.82	LRRK2_G2385R

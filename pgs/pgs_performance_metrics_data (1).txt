@@ -1,0 +1,40 @@
+"Evaluated Score","PGS Sample Set ID
+(PSS)","Performance Source","PGS Effect Sizes
+(per SD change)","Other Metrics","Covariates Included in the Model"
+"PGS000056 (PD_PRS)","PSS000088|European Ancestry|285 individuals","PGP000041 |Paul KC et al. JAMA Neurol (2018)","HR: 1.44 [1.0, 2.07]",—,"sex, age at diagnosis"
+"PGS000056 (PD_PRS)","PSS000088|European Ancestry|285 individuals","PGP000041 |Paul KC et al. JAMA Neurol (2018)","HR: 1.42 [1.0, 2.01]",—,"sex, age at diagnosis"
+"PGS000056 (PD_PRS)","PSS000088|European Ancestry|285 individuals","PGP000041 |Paul KC et al. JAMA Neurol (2018)","HR: 1.34 [1.0, 1.79]",—,"sex, age at diagnosis"
+"PGS000123 (2017_PD16)","PSS000225|European Ancestry|469 individuals","PGP000059 |Ibanez L et al. BMC Neurol (2017)","β: 5.84 [3.1, 8.59]","Association (p-value): 3e-05","age at last assessment, sex, 2 PCs of ancestry"
+"PGS000123 (2017_PD16)","PSS000225|European Ancestry|469 individuals","PGP000059 |Ibanez L et al. BMC Neurol (2017)","β: 16.62 [9.63, 23.61]","Association (p-value): 3.19e-06","age at last assessment, sex, 2 PCs of ancestry"
+"PGS000123 (2017_PD16)","PSS000226|European Ancestry|786 individuals","PGP000059 |Ibanez L et al. BMC Neurol (2017)","β: 4.85 [2.32, 7.39]","Association (p-value): 0.00018","age at last assessment, sex, 2 PCs of ancestry"
+"PGS000123 (2017_PD16)","PSS000226|European Ancestry|786 individuals","PGP000059 |Ibanez L et al. BMC Neurol (2017)","β: 9.3 [3.59, 15.0]","Association (p-value): 0.00141","age at last assessment, sex, 2 PCs of ancestry"
+"PGS000211 (PD19)","PSS000358|European Ancestry|336 individuals","PGP000087 |Pihlstrøm L et al. Mov Disord (2016)","HR: 1.29 [1.06, 1.56]",—,"sex, age at diagnosis"
+"PGS000750 (PRS_43)","PSS000952|Multi-ancestry (including European)|486 individuals","PGP000155 |Bobbili DR et al. J Med Genet (2020)",—,—,"Sex, singleton loss of function variant count, Parkinson's disease family history."
+"PGS000750 (PRS_43)","PSS000952|Multi-ancestry (including European)|486 individuals","PGP000155 |Bobbili DR et al. J Med Genet (2020)",—,—,"Sex, singleton loss of function variant count."
+"PGS000750 (PRS_43)","PSS000952|Multi-ancestry (including European)|486 individuals","PGP000155 |Bobbili DR et al. J Med Genet (2020)",—,—,Sex
+"PGS000777 (PHS3_PDD)","PSS000997|Multi-ancestry (including European)|404 individuals","PGP000181 |Liu G et al. Nat Genet (2021)","HR: 2.05 [1.16, 3.61]","Hazard's Ratio (HR, top 25% vs PHS of 0): 3.2 [1.26, 8.11]","Age at Parkinson's disease onset, sex, years of education, PCs(1-10), study cohort, genetic factors ... (genes: GBA, APOE ε4)Show more"
+"PGS000903 (PRS1805_PD)","PSS001174|Multi-ancestry (including European)|999 individuals","PGP000235 |Nalls MA et al. Lancet Neurol (2019)","β: 0.709 (0.072)","R²: 0.054
+Odds Ratio (OR, top 25% vs bottom 25%): 6.25 [4.26, 9.28]","PCs(1-5), age, sex"
+"PGS000902 (PRS90_PD)","PSS001174|Multi-ancestry (including European)|999 individuals","PGP000235 |Nalls MA et al. Lancet Neurol (2019)",—,—,"PCs(1-5), age, sex"
+"PGS001353 (PRS6_PD)","PSS003601|Additional Asian Ancestries|25,646 individuals","PGP000250 |Sia MW et al. Mov Disord (2021)",—,"Hazard Ratio (HR, top 33.3% vs bottom 33.3%): 1.81 [1.37, 2.39]
+Hazard Ratio (HR, top 33.3% vs middle 33.3%): 1.35 [1.0, 1.83]","Age of recruitment, year of interview (1993-1995, 1996-1998), dialect group (Cantonese, Hokkien), le... vel of education (no formal education, primary school, secondary school or higher), body mass index (<20, 20-<24, 24-<28, 28+ kg/m2)Show more"
+"PGS001774 (PRS12_PD)","PSS007662|European Ancestry|699 individuals","PGP000254 |Chairta PP et al. Genes (Basel) (2021)","OR: 1.39 [1.06, 1.84]",—,—
+"PGS001774 (PRS12_PD)","PSS007662|European Ancestry|699 individuals","PGP000254 |Chairta PP et al. Genes (Basel) (2021)",—,—,"Age, gender, head injury, family history of Parkinson's disease, depression, smoking (current or eve... r), body mass indexShow more"
+"PGS001774 (PRS12_PD)","PSS007662|European Ancestry|699 individuals","PGP000254 |Chairta PP et al. Genes (Basel) (2021)","OR: 1.39 [1.06, 1.83]",—,—
+"PGS001774 (PRS12_PD)","PSS007662|European Ancestry|699 individuals","PGP000254 |Chairta PP et al. Genes (Basel) (2021)",—,—,"Age, gender, head injury, family history of Parkinson's disease, depression, smoking (current or eve... r), body mass indexShow more"
+"PGS000903 (PRS1805_PD)","PSS009572|European Ancestry|6,378 individuals","PGP000281 |Koch S et al. Genes (Basel) (2021)|Ext.",—,"Nagelkerke’s Pseudo-R2: 0.348","sex, age and first three PCs"
+"PGS000903 (PRS1805_PD)","PSS009572|European Ancestry|6,378 individuals","PGP000281 |Koch S et al. Genes (Basel) (2021)|Ext.",—,"Sensitivity: 0.581 [0.479, 0.625]
+Specificity: 0.625 [0.472, 0.725]",—
+"PGS000903 (PRS1805_PD)","PSS009572|European Ancestry|6,378 individuals","PGP000281 |Koch S et al. Genes (Basel) (2021)|Ext.",—,"Nagelkerke’s Pseudo-R2: 0.039","sex, age and first three PCs"
+"PGS000903 (PRS1805_PD)","PSS009933|South Asian Ancestry|90 individuals","PGP000360 |Kukkle PL et al. Adv Biol (Weinh) (2022)|Ext.",—,"Odds ratio, OR (high vs low risk): 1.92",—
+"PGS000902 (PRS90_PD)","PSS010943|Ancestry Not Reported|986 individuals","PGP000458 |Pavelka L et al. NPJ Parkinsons Dis (2022)|Ext.",—,"Correlation: -0.11",—
+"PGS000902 (PRS90_PD)","PSS011016|Multi-ancestry (including European)|3,427 individuals","PGP000479 |Blauwendraat C et al. Mov Disord (2023)|Ext.","OR: 1.575 [1.444, 1.717]
+β: 0.4541 (0.0443)",—,—
+"PGS000902 (PRS90_PD)","PSS011017|Multi-ancestry (including European)|225 individuals","PGP000479 |Blauwendraat C et al. Mov Disord (2023)|Ext.","OR: 1.687 [1.099, 2.589]
+β: 0.5228 (0.2186)",—,—
+"PGS003763 (PRS44_PD)","PSS011026|European Ancestry|314,998 individuals","PGP000486 |Zheng Z et al. JAMA Neurol (2023)",—,"Hazard ratio (HR, high vs low tertile): 1.72 [1.54, 1.93]","genotyping array and the first 10 principal components of ancestry"
+"PGS003763 (PRS44_PD)","PSS011026|European Ancestry|314,998 individuals","PGP000486 |Zheng Z et al. JAMA Neurol (2023)",—,"Hazard ratio (HR, high vs low tertile): 3.22 [2.35, 4.41]","age, sex, Townsend deprivation index, assessment centers, alcohol consumption, smoking status, BMI, ... the number of long-term morbidities, genotyping array, and the first 10 principal components of ancestry long-term morbidities, genotyping array, and the first 10 principal components of ancestryShow more"
+"PGS004924 (PRS90_PD)","PSS011750|Multi-ancestry (including European)|3,482 individuals","PGP000657 |Cao Z et al. Parkinsonism Relat Disord (2023)",—,"Odds ratio (OR, top vs bottom PGS quartile): 3.79 [1.64, 8.73]","Age, race, 5 PCs, self-reported sense of smell, education, smoking status, self-reported health stat... us, and PM2.5 and NO2 in 2006Show more"
+"PGS004924 (PRS90_PD)","PSS011751|Multi-ancestry (including European)|3,482 individuals","PGP000657 |Cao Z et al. Parkinsonism Relat Disord (2023)",—,"Odds ratio (OR, top vs bottom PGS quartile): 1.42 [1.04, 1.92]","Age, race, 5 PCs, self-reported sense of smell, education, smoking status, self-reported health stat... us, and PM2.5 and NO2 in 2006Show more"
+"PGS000902 (PRS90_PD)","PSS012105|Ancestry Not Reported|3,453 individuals","PGP000765 |Gandhi SE et al. Mov Disord Clin Pract (2024)|Ext.","OR: 1.34 [1.036, 1.737]",—,"Age at diagnosis, Female gender, Interpolated BMI, Education > 12 years, MDS-UPDRS part 1, Depres... sion (score > 0), Anxiety (score > 0), MDS-UPDRS part 2, MDS-UPDRS part 3, MDS-UPDRS part 3 tremor subscore, HY3 plus, MDS-UPDRS part 3 progression, Total LEDDShow more"
+"PGS000902 (PRS90_PD)","PSS012105|Ancestry Not Reported|3,453 individuals","PGP000765 |Gandhi SE et al. Mov Disord Clin Pract (2024)|Ext.","OR: 1.401 [1.024, 1.93]",—,"Age at diagnosis, Female gender, Interpolated BMI, Education > 12 years, MDS-UPDRS part 1, Depres... sion (score > 0), Anxiety (score > 0), MDS-UPDRS part 2, MDS-UPDRS part 3, MDS-UPDRS part 3 tremor subscore, HY3 plus, MDS-UPDRS part 3 progression, Total LEDDShow more"

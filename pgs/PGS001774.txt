@@ -1,0 +1,27 @@
+###PGS CATALOG SCORING FILE - see https://https://www.pgscatalog.org/downloads/#dl_ftp_scoring_scoring for additional information
+#format_version=2.0
+##POLYGENIC SCORE (PGS) INFORMATION
+#pgs_id=PGS001774
+#pgs_name=PRS12_PD
+#trait_reported=Parkinson's disease
+#trait_mapped=Parkinson disease
+#trait_efo=MONDO_0005180
+#weight_type=log(OR)
+#genome_build=NR
+#variants_number=12
+##SOURCE INFORMATION
+#pgp_id=PGP000254
+#citation=Chairta PP et al. Genes (Basel) (2021). doi:10.3390/genes12081278
+rsID	effect_allele	other_allele	effect_weight	locus_name	OR
+rs12185268	G	A	-0.2613647641344075	SPPL2C	0.77
+rs10513789	G	T	-0.2231435513142097	MCCC1	0.8
+rs6599389	A	G	0.2700271372130602	TMEM175	1.31
+rs356220	T	C	0.25464221837358075	SNCA	1.29
+rs7617877	A	G	0.20701416938432612	LINC00693	1.23
+rs17115100	T	G	-0.2231435513142097	CYP17A1	0.8
+rs13312	G	C	-0.2744368457017603	USP24	0.76
+rs1801582	G	C	-0.23572233352106983	PARK2	0.79
+rs4837628	C	T	-0.23572233352106983	BRINP1	0.79
+rs823118	T	C	0.11332868530700327	NUCKS1	1.12
+rs356182	A	G	-0.2744368457017603	SNCA	0.76
+rs17649553	T	C	-0.2613647641344075	MAPT	0.77

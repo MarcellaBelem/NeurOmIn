@@ -1,0 +1,27 @@
+"PGS Sample Set ID
+(PSS)","Sample Numbers","Age of Study Participants","Sample Ancestry",Cohort(s)
+PSS000088,"285 individuals[ 285 cases , 0 controls], 56.14 % Male samples","Mean = 69.1 years
+Sd = 10.4 years",European,PEG
+PSS000225,"469 individuals[ 334 cases , 135 controls], 55.22 % Male samples",—,European,PPMI
+PSS000226,"786 individuals[ 493 cases , 293 controls], 58.27 % Male samples",—,European,WUSTL
+PSS000358,"336 individuals[ 336 cases , 0 controls], 66.0 % Male samples","Range = [35.0, 85.0] years",European,NR
+PSS000952,"486 individuals[ 340 cases , 146 controls]",—,"European, NR",PPMI
+PSS000997,"404 individuals",—,"European, NR","DeNoPa, EPIPARK, HBS"
+PSS001174,"999 individuals[ 527 cases , 472 controls], 52.75 % Male samples",—,"European, NR",HBS
+PSS003601,"25,646 individuals[ 333 cases , 25,313 controls], 45.32 % Male samples",—,"Asian unspecified",SCHS
+PSS007662,"699 individuals[ 235 cases , 464 controls], 51.36 % Male samples",—,European,NR
+PSS009572,"6,378 individuals[ 1,914 cases , 4,464 controls], 54.0 % Male samples",—,European,"DeNoPa, EPIPARK, KIEL, Other"
+PSS009933,"90 individuals, 71.0 % Male samples","Mean = 36.0 years","South Asian
+(Indian)",NR
+PSS010943,"986 individuals[ 430 cases , 556 controls]",—,"Not reported",NR
+PSS011016,"444 individuals[ 335 cases , 109 controls]",—,"Other
+(Ashkenazi Jewish)",NR
+PSS011016,"2,983 individuals[ 2,050 cases , 933 controls]",—,European,NR
+PSS011017,"152 individuals[ 18 cases , 134 controls]",—,"Other
+(Ashkenazi Jewish)",NR
+PSS011017,"73 individuals[ 8 cases , 65 controls]",—,European,NR
+PSS011026,"314,998 individuals, 49.1 % Male samples","Mean = 56.1 years",European,UKB
+PSS011750,"3,482 individuals[ 72 cases , 3,410 controls], 0.0 % Male samples",—,"European, African unspecified, Not reported",SISTER
+PSS011751,"3,482 individuals[ 456 cases , 3,026 controls], 0.0 % Male samples",—,"European, African unspecified, Not reported",SISTER
+PSS012105,"3,453 individuals, 64.7 % Male samples","Mean = 65.6 years
+Sd = 9.6 years","Not reported","OD, PPMI, TP"

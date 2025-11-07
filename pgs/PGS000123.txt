@@ -1,0 +1,31 @@
+###PGS CATALOG SCORING FILE - see https://www.pgscatalog.org/downloads/#dl_ftp_scoring for additional information
+#format_version=2.0
+##POLYGENIC SCORE (PGS) INFORMATION
+#pgs_id=PGS000123
+#pgs_name=2017_PD16
+#trait_reported=Parkinson's disease
+#trait_mapped=Parkinson disease
+#trait_efo=MONDO_0005180
+#weight_type=Log2(OR)
+#genome_build=NR
+#variants_number=16
+##SOURCE INFORMATION
+#pgp_id=PGP000059
+#citation=Ibanez L et al. BMC Neurol (2017). doi:10.1186/s12883-017-0978-z
+rsID	chr_name	chr_position	effect_allele	effect_weight	allelefrequency_effect
+rs35749011	1	155135036	A	1.206	0.021
+rs823118	1	205723572	T	0.149	0.412
+rs6430538	2	135539967	T	-0.181	0.43
+rs1474055	2	169110394	T	0.285	0.133
+rs12637471	3	182762437	A	-0.258	0.183
+rs34311866	4	951947	T	-0.338	0.779
+rs11724635	4	15737101	A	0.187	0.439
+rs6812193	4	77198986	T	-0.097	0.347
+rs356182	4	90626111	A	-0.085	0.599
+rs9275326	6	32666660	T	-0.152	0.1
+rs199347	7	23293746	A	0.1	0.595
+rs117896735	10	121536327	A	0.147	0.004
+rs76904798	12	40614434	T	0.151	0.151
+rs11060180	12	123303586	A	0.156	0.56
+rs14235	16	31121793	A	0.13	0.391
+rs17649553	17	43994648	T	-0.113	0.201

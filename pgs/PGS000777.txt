@@ -1,0 +1,18 @@
+###PGS CATALOG SCORING FILE - see https://https://www.pgscatalog.org/downloads/#dl_ftp_scoring for additional information
+#format_version=2.0
+##POLYGENIC SCORE (PGS) INFORMATION
+#pgs_id=PGS000777
+#pgs_name=PHS3_PDD
+#trait_reported=Parkinson's disease dementia
+#trait_mapped=cognitive decline measurement|Parkinson disease
+#trait_efo=EFO_0007710|MONDO_0005180 
+#weight_type=log(HR)
+#genome_build=hg19
+#variants_number=3
+##SOURCE INFORMATION
+#pgp_id=PGP000181
+#citation=Liu G et al. Nat Genet (2021). doi:10.1038/s41588-021-00847-6
+rsID	chr_name	effect_allele	effect_weight	allelefrequency_effect	locus_name	HR
+rs182987047	8	T	1.5623463049002497	0.013	RIMS2	4.77
+rs138073281	3	C	1.0508216248317612	0.017	TMEM108	2.86
+rs8050111	16	G	0.7514160886839212	0.066	WWOX	2.12
